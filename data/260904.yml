@@ -7,7 +7,7 @@ about:
   head: 84852e6
   archived: false
   latestVersion: v0.51.0
-  collectedAt: 2026-09-04T19:57:37Z
+  collectedAt: 2026-09-04T20:42:22Z
 timeline:
   created: 2019-01-25
   lastCommit: 2026-09-03
@@ -83,6 +83,54 @@ total:
   openIssue: 36
   commit: 2183
 ---
+path: /home/runner/.x-repo/github.com/derailed/k9s
+collectedAt: 2026-09-04T20:42:25Z
+loc:
+  Go:
+    code: 60133
+    comments: 4222
+    blanks: 10241
+    files: 523
+  Yaml:
+    code: 7669
+    comments: 584
+    blanks: 154
+    files: 162
+  Json:
+    code: 5049
+    comments: 0
+    blanks: 0
+    files: 58
+  Makefile:
+    code: 35
+    comments: 0
+    blanks: 10
+    files: 1
+  Bash:
+    code: 27
+    comments: 2
+    blanks: 3
+    files: 2
+  Dockerfile:
+    code: 21
+    comments: 7
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 7611
+    blanks: 4784
+    files: 260
+  Text:
+    code: 0
+    comments: 354
+    blanks: 35
+    files: 17
+total:
+  code: 74099
+  comments: 12993
+  blanks: 15249
+  files: 1024
 ---
 date: "2026-08-24"
 repo:
