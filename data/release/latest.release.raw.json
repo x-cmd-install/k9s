@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3370,
       "digest": "sha256:dda56946b28b50a56edc43a1b7e24563308f8e1ef5070b1febfc567d63b66b96",
-      "download_count": 34904,
+      "download_count": 34928,
       "created_at": "2026-06-06T14:12:10Z",
       "updated_at": "2026-06-06T14:12:10Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/checksums.sha256"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 42172258,
       "digest": "sha256:7e8802c57c45a0cd389e8fc38472243fe4cf48d8ad5957e189ce370e19e5eda0",
-      "download_count": 4731,
+      "download_count": 4733,
       "created_at": "2026-06-06T14:05:42Z",
       "updated_at": "2026-06-06T14:09:19Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Darwin_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 39201894,
       "digest": "sha256:9b8c0e8f461e5d33aeee43a67f5ef4aff646a008a786887b8266cbb153c610cc",
-      "download_count": 45936,
+      "download_count": 45956,
       "created_at": "2026-06-06T14:05:42Z",
       "updated_at": "2026-06-06T14:08:43Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Darwin_arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 37318410,
       "digest": "sha256:7921d7aed585518f5ac0ebee06fe36623935e8730799506e0cda659359cf6888",
-      "download_count": 261,
+      "download_count": 262,
       "created_at": "2026-06-06T14:05:42Z",
       "updated_at": "2026-06-06T14:08:31Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Freebsd_arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 41539644,
       "digest": "sha256:56b539a509eb2d6357cf4f575ed38c089f0e4880c95f79a70196b54f14954908",
-      "download_count": 59961,
+      "download_count": 59991,
       "created_at": "2026-06-06T14:11:35Z",
       "updated_at": "2026-06-06T14:13:12Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_linux_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 43265311,
       "digest": "sha256:f32dd976bf71250d3cace6f9ed4bf253e5082609e4ac4facfad308ba800af743",
-      "download_count": 16283,
+      "download_count": 16295,
       "created_at": "2026-06-06T14:08:43Z",
       "updated_at": "2026-06-06T14:11:37Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_linux_amd64.rpm"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 41387759,
       "digest": "sha256:c3752ad51a5a4015a113819c4eeb6e55a4d0e4b8e652494797532f6fc8161dd7",
-      "download_count": 396928,
+      "download_count": 397441,
       "created_at": "2026-06-06T14:05:42Z",
       "updated_at": "2026-06-06T14:09:10Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Linux_amd64.tar.gz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 37438999,
       "digest": "sha256:3ee05c82e5f9198928a4e86133608ba6a2c10a2244d6a7789e820f78319d640c",
-      "download_count": 49476,
+      "download_count": 49533,
       "created_at": "2026-06-06T14:08:32Z",
       "updated_at": "2026-06-06T14:10:42Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Linux_arm64.tar.gz"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 42330705,
       "digest": "sha256:bba299f1877913979831543a008f2e104995d2ea4ac8f23d7f49c0444857d973",
-      "download_count": 31641,
+      "download_count": 31655,
       "created_at": "2026-06-06T14:05:42Z",
       "updated_at": "2026-06-06T14:09:22Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Windows_amd64.zip"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 37580994,
       "digest": "sha256:a61c11ac1e9c64e02ce852dd43b630abafda8f0a2c5fd46c752a39f0670a0244",
-      "download_count": 1532,
+      "download_count": 1533,
       "created_at": "2026-06-06T14:05:42Z",
       "updated_at": "2026-06-06T14:08:32Z",
       "browser_download_url": "https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Windows_arm64.zip"

@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.51.0"
   latestRelease: "v0.51.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:03:21Z
+  collectedAt: 2026-09-10T22:50:41Z
 timeline:
   created: 2019-01-25
   lastCommit: 2026-09-09
@@ -86,7 +86,7 @@ total:
   commit: 2188
 ---
 path: /home/runner/.x-repo/github.com/derailed/k9s
-collectedAt: 2026-09-10T21:03:26Z
+collectedAt: 2026-09-10T22:50:48Z
 loc:
   Go:
     code: 60133
