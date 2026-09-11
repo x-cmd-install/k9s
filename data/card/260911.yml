@@ -2,20 +2,20 @@ about:
   description: "🐶 Kubernetes CLI To Manage Your Clusters In Style!"
   license: Apache-2.0
   homepage: https://k9scli.io
-  head: 98a7201
+  head: 198abe5
   archived: false
   latestVersion: "v0.51.0"
   latestRelease: "v0.51.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:06:16Z
+  collectedAt: 2026-09-11T18:55:01Z
 timeline:
   created: 2019-01-25
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-11
   lastVersion: 2026-06-06
   lastRelease: 2026-06-06
   lastPrerelease: 
 popularity:
-  star: 34559
+  star: 34562
   watcher: 159
   fork: 2278
   release: 258
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-12
     release: 0
-    mergedPR: 23
-    openPR: 15
+    mergedPR: 25
+    openPR: 13
     closedIssue: 1
     openIssue: 6
-    commit: 32
+    commit: 34
   last60d:
     since: 2026-07-13
     release: 0
-    mergedPR: 41
-    openPR: 28
+    mergedPR: 43
+    openPR: 26
     closedIssue: 13
     openIssue: 16
-    commit: 50
+    commit: 52
   last90d:
     since: 2026-06-13
     release: 0
-    mergedPR: 57
-    openPR: 37
+    mergedPR: 59
+    openPR: 35
     closedIssue: 27
     openIssue: 23
-    commit: 66
+    commit: 68
   last180d:
     since: 2026-03-15
     release: 1
-    mergedPR: 112
-    openPR: 46
+    mergedPR: 114
+    openPR: 44
     closedIssue: 64
     openIssue: 27
-    commit: 120
+    commit: 122
   last360d:
     since: 2025-09-16
     release: 10
-    mergedPR: 222
-    openPR: 49
+    mergedPR: 224
+    openPR: 47
     closedIssue: 203
     openIssue: 29
-    commit: 231
+    commit: 233
   last720d:
     since: 2024-09-21
     release: 33
-    mergedPR: 432
-    openPR: 49
+    mergedPR: 434
+    openPR: 47
     closedIssue: 528
     openIssue: 29
-    commit: 466
+    commit: 468
 total:
   release: 258
-  mergedPR: 1087
-  openPR: 49
+  mergedPR: 1089
+  openPR: 47
   closedIssue: 2349
   openIssue: 32
-  commit: 2188
+  commit: 2190
 ---
 path: /home/runner/.x-repo/github.com/derailed/k9s
-collectedAt: 2026-09-11T06:06:23Z
+collectedAt: 2026-09-11T18:55:07Z
 loc:
   Go:
     code: 60133
