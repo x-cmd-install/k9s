@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-09-09
+- **Last commit**: 2026-09-11
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,559 · **Forks**: 2,278 · **Open issues**: 2,381 · **Contributors**: 393
+- **Stars**: 34,562 · **Forks**: 2,278 · **Open issues**: 2,381 · **Contributors**: 393
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1087 · **Open PRs**: 49 · **Closed issues**: 2349 · **Open issues**: 32 · **Commits**: 2188
+- **Releases**: 258 · **Merged PRs**: 1089 · **Open PRs**: 47 · **Closed issues**: 2349 · **Open issues**: 32 · **Commits**: 2190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 23 | 15 | 1 | 6 | 32 |
-| last60d | 2026-07-13 | 0 | 41 | 28 | 13 | 16 | 50 |
-| 90d | 2026-06-13 | 0 | 57 | 37 | 27 | 23 | 66 |
-| last180d | 2026-03-15 | 1 | 112 | 46 | 64 | 27 | 120 |
-| 360d | 2025-09-16 | 10 | 222 | 49 | 203 | 29 | 231 |
-| last720d | 2024-09-21 | 33 | 432 | 49 | 528 | 29 | 466 |
+| 30d | 2026-08-12 | 0 | 25 | 13 | 1 | 6 | 34 |
+| last60d | 2026-07-13 | 0 | 43 | 26 | 13 | 16 | 52 |
+| 90d | 2026-06-13 | 0 | 59 | 35 | 27 | 23 | 68 |
+| last180d | 2026-03-15 | 1 | 114 | 44 | 64 | 27 | 122 |
+| 360d | 2025-09-16 | 10 | 224 | 47 | 203 | 29 | 233 |
+| last720d | 2024-09-21 | 33 | 434 | 47 | 528 | 29 | 468 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T06:06:31Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T18:55:17Z._
