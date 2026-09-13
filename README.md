@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,564 · **Forks**: 2,278 · **Open issues**: 2,381 · **Contributors**: 393
+- **Stars**: 34,570 · **Forks**: 2,279 · **Open issues**: 2,381 · **Contributors**: 393
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1089 · **Open PRs**: 47 · **Closed issues**: 2349 · **Open issues**: 32 · **Commits**: 2190
+- **Releases**: 258 · **Merged PRs**: 1089 · **Open PRs**: 48 · **Closed issues**: 2349 · **Open issues**: 32 · **Commits**: 2190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 25 | 13 | 1 | 6 | 34 |
-| last60d | 2026-07-14 | 0 | 42 | 25 | 12 | 16 | 52 |
-| 90d | 2026-06-14 | 0 | 59 | 35 | 26 | 23 | 68 |
-| last180d | 2026-03-16 | 1 | 110 | 44 | 64 | 27 | 122 |
-| 360d | 2025-09-17 | 10 | 223 | 47 | 201 | 29 | 233 |
-| last720d | 2024-09-22 | 33 | 434 | 47 | 528 | 29 | 468 |
+| 30d | 2026-08-14 | 0 | 23 | 14 | 1 | 6 | 34 |
+| last60d | 2026-07-15 | 0 | 42 | 26 | 11 | 14 | 52 |
+| 90d | 2026-06-15 | 0 | 59 | 36 | 26 | 23 | 68 |
+| last180d | 2026-03-17 | 1 | 110 | 45 | 64 | 27 | 122 |
+| 360d | 2025-09-18 | 9 | 222 | 48 | 198 | 29 | 233 |
+| last720d | 2024-09-23 | 33 | 433 | 48 | 526 | 29 | 466 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:54:31Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T06:03:31Z._
