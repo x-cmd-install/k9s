@@ -14,12 +14,12 @@ x install k9s
 
 ## Code insight
 
-Total: **72,934** lines of code across **746** files in the top 5 languages.
+Total: **72,993** lines of code across **747** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 60,133 | 4,222 | 10,241 | 523 |
-| Yaml | 7,669 | 584 | 154 | 162 |
+| Yaml | 7,728 | 594 | 157 | 163 |
 | Json | 5,049 | 0 | 0 | 58 |
 | Makefile | 35 | 0 | 10 | 1 |
 | Bash | 27 | 2 | 3 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-13
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,570 · **Forks**: 2,279 · **Open issues**: 2,381 · **Contributors**: 393
+- **Stars**: 34,577 · **Forks**: 2,277 · **Open issues**: 2,381 · **Contributors**: 395
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1089 · **Open PRs**: 48 · **Closed issues**: 2349 · **Open issues**: 32 · **Commits**: 2190
+- **Releases**: 258 · **Merged PRs**: 1091 · **Open PRs**: 46 · **Closed issues**: 2350 · **Open issues**: 31 · **Commits**: 2192
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 23 | 14 | 1 | 6 | 34 |
-| last60d | 2026-07-15 | 0 | 42 | 26 | 11 | 14 | 52 |
-| 90d | 2026-06-15 | 0 | 59 | 36 | 26 | 23 | 68 |
-| last180d | 2026-03-17 | 1 | 110 | 45 | 64 | 27 | 122 |
-| 360d | 2025-09-18 | 9 | 222 | 48 | 198 | 29 | 233 |
-| last720d | 2024-09-23 | 33 | 433 | 48 | 526 | 29 | 466 |
+| 30d | 2026-08-15 | 0 | 25 | 12 | 1 | 6 | 21 |
+| last60d | 2026-07-16 | 0 | 42 | 23 | 11 | 13 | 52 |
+| 90d | 2026-06-16 | 0 | 61 | 33 | 26 | 22 | 61 |
+| last180d | 2026-03-18 | 1 | 112 | 43 | 64 | 26 | 116 |
+| 360d | 2025-09-19 | 8 | 223 | 46 | 196 | 28 | 231 |
+| last720d | 2024-09-24 | 33 | 434 | 46 | 526 | 28 | 468 |
 
 ## Release assets
 
@@ -108,20 +108,6 @@ Lowest-scoring checks:
 | [k9s_Windows_arm64.zip](https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Windows_arm64.zip) | 35.8 MiB | `native/win/arm64` |
 | [k9s_Windows_arm64.zip.sbom.json](https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Windows_arm64.zip.sbom.json) | 576.4 KiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **142** distros on [repology.org](https://repology.org/project/k9s). **28** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.51.0` | ✅ latest |
-| Homebrew | `0.51.0` | ✅ latest |
-| Fedora rawhide | `0.51.0` | ✅ latest |
-| Nix unstable | `0.51.0` | ✅ latest |
-| Void | `0.51.0` | ✅ latest |
-| Alpine edge | `0.51.0` | ✅ latest |
-| openSUSE Tumbleweed | `0.51.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `k9s` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -131,4 +117,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:03:31Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:21:49Z._
