@@ -4,7 +4,7 @@
 
 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
-![k9s](https://repo.x-cmd.io/k9s.svg)
+[![x-cmd/install — k9s Code Quality Monitoring Repo Card](https://repo.x-cmd.io/k9s.svg)](https://x-cmd.com/install/k9s)
 
 ## Install
 
@@ -14,12 +14,12 @@ x install k9s
 
 ## Code insight
 
-Total: **73,123** lines of code across **747** files in the top 5 languages.
+Total: **73,129** lines of code across **747** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 60,165 | 4,224 | 10,244 | 523 |
-| Yaml | 7,823 | 664 | 161 | 163 |
+| Go | 60,169 | 4,224 | 10,244 | 523 |
+| Yaml | 7,825 | 667 | 161 | 163 |
 | Json | 5,049 | 0 | 0 | 58 |
 | Makefile | 38 | 0 | 11 | 1 |
 | Bash | 27 | 2 | 3 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-18
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,621 · **Forks**: 2,279 · **Open issues**: 2,383 · **Contributors**: 396
+- **Stars**: 34,630 · **Forks**: 2,285 · **Open issues**: 2,384 · **Contributors**: 398
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1097 · **Open PRs**: 46 · **Closed issues**: 2351 · **Open issues**: 32 · **Commits**: 2198
+- **Releases**: 258 · **Merged PRs**: 1101 · **Open PRs**: 45 · **Closed issues**: 2351 · **Open issues**: 33 · **Commits**: 2202
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 23 | 11 | 2 | 7 | 27 |
-| last60d | 2026-07-20 | 0 | 46 | 21 | 12 | 13 | 58 |
-| 90d | 2026-06-20 | 0 | 59 | 33 | 21 | 23 | 67 |
-| last180d | 2026-03-22 | 1 | 116 | 43 | 61 | 27 | 122 |
-| 360d | 2025-09-23 | 7 | 227 | 46 | 192 | 29 | 237 |
-| last720d | 2024-09-28 | 33 | 440 | 46 | 527 | 29 | 474 |
+| 30d | 2026-08-21 | 0 | 24 | 10 | 1 | 7 | 31 |
+| last60d | 2026-07-22 | 0 | 49 | 20 | 11 | 13 | 62 |
+| 90d | 2026-06-22 | 0 | 62 | 32 | 20 | 24 | 71 |
+| last180d | 2026-03-24 | 1 | 116 | 42 | 61 | 28 | 126 |
+| 360d | 2025-09-25 | 7 | 231 | 45 | 187 | 30 | 241 |
+| last720d | 2024-09-30 | 33 | 442 | 45 | 524 | 30 | 477 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:08:53Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:23Z._
