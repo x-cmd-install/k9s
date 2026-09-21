@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (2/10) — badge detected: InProgress
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,630 · **Forks**: 2,285 · **Open issues**: 2,384 · **Contributors**: 398
+- **Stars**: 34,633 · **Forks**: 2,285 · **Open issues**: 2,384 · **Contributors**: 398
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 24 | 10 | 1 | 7 | 31 |
-| last60d | 2026-07-22 | 0 | 49 | 20 | 11 | 13 | 62 |
-| 90d | 2026-06-22 | 0 | 62 | 32 | 20 | 24 | 71 |
-| last180d | 2026-03-24 | 1 | 116 | 42 | 61 | 28 | 126 |
-| 360d | 2025-09-25 | 7 | 231 | 45 | 187 | 30 | 241 |
-| last720d | 2024-09-30 | 33 | 442 | 45 | 524 | 30 | 477 |
+| 30d | 2026-08-22 | 0 | 24 | 10 | 1 | 7 | 26 |
+| last60d | 2026-07-23 | 0 | 49 | 20 | 11 | 13 | 56 |
+| 90d | 2026-06-23 | 0 | 61 | 32 | 20 | 24 | 69 |
+| last180d | 2026-03-25 | 1 | 115 | 42 | 60 | 28 | 126 |
+| 360d | 2025-09-26 | 7 | 231 | 45 | 186 | 30 | 238 |
+| last720d | 2024-10-01 | 33 | 442 | 45 | 524 | 30 | 477 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:15:23Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:18:56Z._
