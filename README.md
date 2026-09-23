@@ -4,7 +4,7 @@
 
 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 
-[![x-cmd/install — k9s Code Quality Monitoring Repo Card](https://repo.x-cmd.io/k9s.svg)](https://x-cmd.com/install/k9s)
+[![x-cmd/install — k9s Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/k9s.svg)](https://x-cmd.com/install/k9s)
 
 ## Install
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,640 · **Forks**: 2,288 · **Open issues**: 2,386 · **Contributors**: 399
+- **Stars**: 34,652 · **Forks**: 2,289 · **Open issues**: 2,386 · **Contributors**: 399
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1102 · **Open PRs**: 47 · **Closed issues**: 2351 · **Open issues**: 35 · **Commits**: 2203
+- **Releases**: 258 · **Merged PRs**: 1104 · **Open PRs**: 46 · **Closed issues**: 2351 · **Open issues**: 35 · **Commits**: 2205
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 25 | 13 | 1 | 9 | 27 |
-| last60d | 2026-07-24 | 0 | 47 | 21 | 10 | 15 | 57 |
-| 90d | 2026-06-24 | 0 | 61 | 34 | 20 | 26 | 70 |
-| last180d | 2026-03-26 | 1 | 116 | 44 | 59 | 30 | 127 |
-| 360d | 2025-09-27 | 7 | 231 | 47 | 186 | 32 | 239 |
-| last720d | 2024-10-02 | 33 | 443 | 47 | 524 | 32 | 478 |
+| 30d | 2026-08-24 | 0 | 24 | 12 | 1 | 9 | 29 |
+| last60d | 2026-07-25 | 0 | 49 | 20 | 10 | 15 | 59 |
+| 90d | 2026-06-25 | 0 | 63 | 32 | 19 | 24 | 72 |
+| last180d | 2026-03-27 | 1 | 117 | 43 | 59 | 30 | 129 |
+| 360d | 2025-09-28 | 6 | 233 | 46 | 184 | 32 | 241 |
+| last720d | 2024-10-03 | 33 | 445 | 46 | 523 | 32 | 480 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:20:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:26:09Z._
