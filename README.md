@@ -14,12 +14,12 @@ x install k9s
 
 ## Code insight
 
-Total: **73,175** lines of code across **747** files in the top 5 languages.
+Total: **73,208** lines of code across **748** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Go | 60,209 | 4,226 | 10,243 | 523 |
-| Yaml | 7,831 | 667 | 161 | 163 |
+| Yaml | 7,864 | 667 | 162 | 164 |
 | Json | 5,049 | 0 | 0 | 58 |
 | Makefile | 38 | 0 | 11 | 1 |
 | Bash | 27 | 2 | 3 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-28
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,694 · **Forks**: 2,298 · **Open issues**: 2,389 · **Contributors**: 399
+- **Stars**: 34,699 · **Forks**: 2,299 · **Open issues**: 2,389 · **Contributors**: 399
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1110 · **Open PRs**: 49 · **Closed issues**: 2353 · **Open issues**: 36 · **Commits**: 2211
+- **Releases**: 258 · **Merged PRs**: 1111 · **Open PRs**: 56 · **Closed issues**: 2353 · **Open issues**: 36 · **Commits**: 2212
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 28 | 16 | 0 | 12 | 28 |
-| last60d | 2026-07-30 | 0 | 53 | 22 | 9 | 13 | 63 |
-| 90d | 2026-06-30 | 0 | 66 | 35 | 18 | 25 | 73 |
-| last180d | 2026-04-01 | 1 | 120 | 46 | 59 | 31 | 123 |
-| 360d | 2025-10-03 | 6 | 237 | 49 | 181 | 33 | 240 |
-| last720d | 2024-10-08 | 33 | 449 | 49 | 524 | 33 | 486 |
+| 30d | 2026-08-30 | 0 | 29 | 23 | 0 | 11 | 29 |
+| last60d | 2026-07-31 | 0 | 54 | 29 | 8 | 13 | 64 |
+| 90d | 2026-07-01 | 0 | 67 | 42 | 17 | 25 | 74 |
+| last180d | 2026-04-02 | 1 | 121 | 53 | 59 | 31 | 124 |
+| 360d | 2025-10-04 | 6 | 237 | 56 | 181 | 33 | 241 |
+| last720d | 2024-10-09 | 33 | 450 | 56 | 522 | 33 | 487 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:36:41Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:52:22Z._
