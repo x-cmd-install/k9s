@@ -26,13 +26,13 @@ Total: **73,208** lines of code across **748** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.4 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Security-Policy** (0/10) — security policy file not detected
+- **CII-Best-Practices** (2/10) — badge detected: InProgress
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-09-28
+- **Last commit**: 2026-09-29
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,699 · **Forks**: 2,299 · **Open issues**: 2,389 · **Contributors**: 399
+- **Stars**: 34,711 · **Forks**: 2,301 · **Open issues**: 2,389 · **Contributors**: 399
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1111 · **Open PRs**: 56 · **Closed issues**: 2353 · **Open issues**: 36 · **Commits**: 2212
+- **Releases**: 258 · **Merged PRs**: 1114 · **Open PRs**: 51 · **Closed issues**: 2353 · **Open issues**: 36 · **Commits**: 2215
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 29 | 23 | 0 | 11 | 29 |
-| last60d | 2026-07-31 | 0 | 54 | 29 | 8 | 13 | 64 |
-| 90d | 2026-07-01 | 0 | 67 | 42 | 17 | 25 | 74 |
-| last180d | 2026-04-02 | 1 | 121 | 53 | 59 | 31 | 124 |
-| 360d | 2025-10-04 | 6 | 237 | 56 | 181 | 33 | 241 |
-| last720d | 2024-10-09 | 33 | 450 | 56 | 522 | 33 | 487 |
+| 30d | 2026-08-31 | 0 | 29 | 18 | 0 | 11 | 32 |
+| last60d | 2026-08-01 | 0 | 56 | 24 | 8 | 13 | 67 |
+| 90d | 2026-07-02 | 0 | 69 | 36 | 16 | 25 | 77 |
+| last180d | 2026-04-03 | 1 | 123 | 48 | 59 | 31 | 127 |
+| 360d | 2025-10-05 | 6 | 240 | 51 | 179 | 33 | 244 |
+| last720d | 2024-10-10 | 33 | 453 | 51 | 522 | 33 | 490 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:52:22Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:39:39Z._
