@@ -14,7 +14,7 @@ x install k9s
 
 ## Code insight
 
-Total: **74,034** lines of code across **756** files in the top 5 languages.
+Total: **74,036** lines of code across **756** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-18
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,831 · **Forks**: 2,320 · **Open issues**: 2,398 · **Contributors**: 405
+- **Stars**: 34,839 · **Forks**: 2,324 · **Open issues**: 2,398 · **Contributors**: 405
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1132 · **Open PRs**: 52 · **Closed issues**: 2361 · **Open issues**: 37 · **Commits**: 2233
+- **Releases**: 258 · **Merged PRs**: 1134 · **Open PRs**: 59 · **Closed issues**: 2361 · **Open issues**: 37 · **Commits**: 2235
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 26 | 21 | 2 | 12 | 35 |
-| last60d | 2026-08-19 | 0 | 52 | 29 | 6 | 19 | 66 |
-| 90d | 2026-07-20 | 0 | 76 | 37 | 17 | 24 | 93 |
-| last180d | 2026-04-21 | 1 | 132 | 49 | 56 | 34 | 141 |
-| 360d | 2025-10-23 | 3 | 249 | 52 | 169 | 36 | 254 |
-| last720d | 2024-10-28 | 33 | 459 | 52 | 515 | 36 | 500 |
+| 30d | 2026-09-19 | 0 | 28 | 27 | 2 | 12 | 29 |
+| last60d | 2026-08-20 | 0 | 54 | 35 | 4 | 19 | 59 |
+| 90d | 2026-07-21 | 0 | 78 | 44 | 17 | 23 | 89 |
+| last180d | 2026-04-22 | 1 | 134 | 56 | 55 | 34 | 143 |
+| 360d | 2025-10-24 | 3 | 251 | 59 | 169 | 36 | 256 |
+| last720d | 2024-10-29 | 33 | 461 | 59 | 515 | 36 | 501 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:32:22Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:40:27Z._
