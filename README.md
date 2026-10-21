@@ -14,11 +14,11 @@ x install k9s
 
 ## Code insight
 
-Total: **74,036** lines of code across **756** files in the top 5 languages.
+Total: **74,060** lines of code across **756** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 60,992 | 4,263 | 10,334 | 530 |
+| Go | 61,016 | 4,265 | 10,337 | 530 |
 | Yaml | 7,905 | 670 | 162 | 165 |
 | Json | 5,051 | 0 | 0 | 58 |
 | Makefile | 38 | 0 | 11 | 1 |
@@ -26,7 +26,7 @@ Total: **74,036** lines of code across **756** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-20
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,842 · **Forks**: 2,323 · **Open issues**: 2,398 · **Contributors**: 405
+- **Stars**: 34,852 · **Forks**: 2,328 · **Open issues**: 2,402 · **Contributors**: 405
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1134 · **Open PRs**: 57 · **Closed issues**: 2362 · **Open issues**: 36 · **Commits**: 2235
+- **Releases**: 258 · **Merged PRs**: 1136 · **Open PRs**: 61 · **Closed issues**: 2365 · **Open issues**: 37 · **Commits**: 2237
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 27 | 27 | 2 | 12 | 29 |
-| last60d | 2026-08-21 | 0 | 52 | 35 | 4 | 19 | 59 |
-| 90d | 2026-07-22 | 0 | 78 | 43 | 16 | 23 | 89 |
-| last180d | 2026-04-23 | 1 | 134 | 54 | 55 | 33 | 143 |
-| 360d | 2025-10-25 | 3 | 251 | 57 | 170 | 35 | 256 |
-| last720d | 2024-10-30 | 33 | 461 | 57 | 516 | 35 | 501 |
+| 30d | 2026-09-21 | 0 | 26 | 34 | 3 | 13 | 31 |
+| last60d | 2026-08-22 | 0 | 54 | 42 | 5 | 22 | 61 |
+| 90d | 2026-07-23 | 0 | 80 | 50 | 17 | 26 | 91 |
+| last180d | 2026-04-24 | 1 | 135 | 58 | 58 | 34 | 145 |
+| 360d | 2025-10-26 | 3 | 253 | 61 | 172 | 36 | 258 |
+| last720d | 2024-10-31 | 33 | 463 | 61 | 518 | 36 | 498 |
 
 ## Release assets
 
@@ -117,4 +117,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:58:17Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:44:29Z._
