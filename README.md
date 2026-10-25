@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-10-22
+- **Last commit**: 2026-10-24
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,867 · **Forks**: 2,333 · **Open issues**: 2,402 · **Contributors**: 405
+- **Stars**: 34,875 · **Forks**: 2,336 · **Open issues**: 2,402 · **Contributors**: 405
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1138 · **Open PRs**: 63 · **Closed issues**: 2365 · **Open issues**: 37 · **Commits**: 2239
+- **Releases**: 258 · **Merged PRs**: 1141 · **Open PRs**: 62 · **Closed issues**: 2368 · **Open issues**: 34 · **Commits**: 2242
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 28 | 35 | 3 | 12 | 33 |
-| last60d | 2026-08-25 | 0 | 53 | 44 | 5 | 22 | 63 |
-| 90d | 2026-07-26 | 0 | 79 | 50 | 16 | 25 | 93 |
-| last180d | 2026-04-27 | 1 | 137 | 60 | 56 | 34 | 147 |
-| 360d | 2025-10-29 | 3 | 255 | 63 | 169 | 36 | 260 |
-| last720d | 2024-11-03 | 33 | 464 | 63 | 517 | 36 | 500 |
+| 30d | 2026-09-25 | 0 | 27 | 33 | 3 | 11 | 36 |
+| last60d | 2026-08-26 | 0 | 56 | 43 | 4 | 22 | 66 |
+| 90d | 2026-07-27 | 0 | 82 | 49 | 15 | 25 | 96 |
+| last180d | 2026-04-28 | 1 | 140 | 59 | 58 | 31 | 150 |
+| 360d | 2025-10-30 | 3 | 258 | 62 | 172 | 33 | 263 |
+| last720d | 2024-11-04 | 33 | 467 | 62 | 520 | 33 | 500 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T05:39:50Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T05:50:46Z._
