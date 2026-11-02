@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 34,900 · **Forks**: 2,338 · **Open issues**: 2,405 · **Contributors**: 408
+- **Stars**: 34,908 · **Forks**: 2,340 · **Open issues**: 2,406 · **Contributors**: 408
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1150 · **Open PRs**: 63 · **Closed issues**: 2366 · **Open issues**: 39 · **Commits**: 2251
+- **Releases**: 258 · **Merged PRs**: 1150 · **Open PRs**: 65 · **Closed issues**: 2366 · **Open issues**: 40 · **Commits**: 2251
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 30 | 29 | 3 | 10 | 30 |
-| last60d | 2026-09-02 | 0 | 60 | 43 | 4 | 23 | 63 |
-| 90d | 2026-08-03 | 0 | 86 | 50 | 12 | 26 | 95 |
-| last180d | 2026-05-05 | 1 | 146 | 60 | 55 | 36 | 159 |
-| 360d | 2025-11-06 | 3 | 261 | 63 | 163 | 38 | 264 |
-| last720d | 2024-11-11 | 32 | 474 | 63 | 517 | 38 | 507 |
+| 30d | 2026-10-03 | 0 | 30 | 30 | 3 | 11 | 30 |
+| last60d | 2026-09-03 | 0 | 60 | 45 | 4 | 24 | 63 |
+| 90d | 2026-08-04 | 0 | 85 | 51 | 12 | 27 | 95 |
+| last180d | 2026-05-06 | 1 | 146 | 62 | 55 | 37 | 159 |
+| 360d | 2025-11-07 | 3 | 261 | 65 | 160 | 39 | 264 |
+| last720d | 2024-11-12 | 32 | 474 | 65 | 516 | 39 | 507 |
 
 ## Release assets
 
@@ -110,7 +110,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **145** distros on [repology.org](https://repology.org/project/k9s). **32** are ✅ on the latest upstream release, **47** are ⚠️ on an older version.
+Reported by **145** distros on [repology.org](https://repology.org/project/k9s). **30** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -131,4 +131,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:11:43Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:16:19Z._
