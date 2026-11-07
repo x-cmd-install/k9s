@@ -14,11 +14,11 @@ x install k9s
 
 ## Code insight
 
-Total: **74,657** lines of code across **763** files in the top 5 languages.
+Total: **74,738** lines of code across **764** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 61,497 | 4,281 | 10,385 | 532 |
+| Go | 61,578 | 4,290 | 10,394 | 533 |
 | Yaml | 7,968 | 691 | 167 | 168 |
 | Json | 5,051 | 0 | 0 | 58 |
 | Bash | 80 | 18 | 12 | 4 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,933 · **Forks**: 2,342 · **Open issues**: 2,407 · **Contributors**: 412
+- **Stars**: 34,936 · **Forks**: 2,342 · **Open issues**: 2,407 · **Contributors**: 413
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1159 · **Open PRs**: 65 · **Closed issues**: 2367 · **Open issues**: 40 · **Commits**: 2260
+- **Releases**: 258 · **Merged PRs**: 1160 · **Open PRs**: 64 · **Closed issues**: 2369 · **Open issues**: 38 · **Commits**: 2261
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 35 | 28 | 3 | 11 | 39 |
-| last60d | 2026-09-07 | 0 | 64 | 44 | 5 | 24 | 72 |
-| 90d | 2026-08-08 | 0 | 90 | 52 | 10 | 27 | 104 |
-| last180d | 2026-05-10 | 1 | 151 | 62 | 55 | 37 | 168 |
-| 360d | 2025-11-11 | 3 | 264 | 65 | 159 | 39 | 273 |
-| last720d | 2024-11-16 | 32 | 478 | 65 | 509 | 39 | 515 |
+| 30d | 2026-10-08 | 0 | 36 | 27 | 4 | 10 | 40 |
+| last60d | 2026-09-08 | 0 | 65 | 43 | 6 | 22 | 73 |
+| 90d | 2026-08-09 | 0 | 91 | 50 | 11 | 26 | 105 |
+| last180d | 2026-05-11 | 1 | 151 | 61 | 57 | 35 | 169 |
+| 360d | 2025-11-12 | 3 | 265 | 64 | 160 | 37 | 274 |
+| last720d | 2024-11-17 | 31 | 479 | 64 | 511 | 37 | 512 |
 
 ## Release assets
 
@@ -110,7 +110,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **145** distros on [repology.org](https://repology.org/project/k9s). **30** are ✅ on the latest upstream release, **49** are ⚠️ on an older version.
+Reported by **144** distros on [repology.org](https://repology.org/project/k9s). **32** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -131,4 +131,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:08:15Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:06:52Z._
