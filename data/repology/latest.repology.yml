@@ -1,3 +1,25 @@
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: k9s
+  binname: k9s
+  visiblename: k9s
+  version: 0.51.0
+  origversion: 0.51.0-1
+  status: newest
+  summary: TUI for managing Kubernetes clusters and pods
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: k9s
+  binname: k9s
+  visiblename: k9s
+  version: 0.51.0
+  origversion: 0.51.0-1
+  status: newest
+  summary: TUI for managing Kubernetes clusters and pods
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_17
   subrepo: community
   srcname: k9s
@@ -11,13 +33,6 @@
     - galen@galenabell.com
   licenses:
     - Apache-2.0
-- repo: chocolatey
-  binname: k9s
-  visiblename: 'k9s: Kubernetes CLI To Manage Your Clusters In Style!'
-  version: 0.51.0
-  origversion: null
-  status: newest
-  summary: K9s is a terminal based UI to interact with your Kubernetes clusters.
 - repo: alpine_3_17
   subrepo: community
   srcname: k9s
@@ -83,14 +98,6 @@
     - galen@galenabell.com
   licenses:
     - Apache-2.0
-- repo: baulk
-  srcname: k9s
-  binname: k9s
-  visiblename: k9s
-  version: 0.51.0
-  origversion: null
-  status: newest
-  summary: K9s - Kubernetes CLI To Manage Your Clusters In Style!
 - repo: alpine_3_18
   subrepo: community
   srcname: k9s
@@ -117,6 +124,18 @@
     - galen@galenabell.com
   licenses:
     - Apache-2.0
+- repo: openbsd
+  srcname: sysutils/k9s
+  binname: k9s
+  visiblename: sysutils/k9s
+  version: 0.51.0
+  origversion: null
+  status: newest
+  summary: tui to manage kubernetes cluster
+  maintainers:
+    - rsadowski@openbsd.org
+  categories:
+    - sysutils
 - repo: alpine_3_19
   subrepo: community
   srcname: k9s
@@ -299,15 +318,6 @@
     - galen@galenabell.com
   licenses:
     - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.16
-  origversion: 0.50.16-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: alpine_3_22
   subrepo: community
   srcname: k9s
@@ -545,6 +555,14 @@
     - zarloc@aur
   licenses:
     - Apache-2.0
+- repo: baulk
+  srcname: k9s
+  binname: k9s
+  visiblename: k9s
+  version: 0.51.0
+  origversion: null
+  status: newest
+  summary: K9s - Kubernetes CLI To Manage Your Clusters In Style!
 - repo: chimera
   subrepo: user
   srcname: k9s
@@ -589,6 +607,13 @@
   summary: Terminal UI to interact with Kubernetes clusters (zsh completions)
   licenses:
     - Apache-2.0
+- repo: chocolatey
+  binname: k9s
+  visiblename: 'k9s: Kubernetes CLI To Manage Your Clusters In Style!'
+  version: 0.51.0
+  origversion: null
+  status: newest
+  summary: K9s is a terminal based UI to interact with your Kubernetes clusters.
 - repo: fedora_42
   subrepo: updates
   srcname: k9s
@@ -638,6 +663,22 @@
   categories:
     - Unspecified
 - repo: fedora_44
+  subrepo: updates
+  srcname: k9s
+  binnames:
+    - k9s
+    - k9s-debuginfo
+    - k9s-debugsource
+  visiblename: k9s
+  version: 0.51.0
+  origversion: 0.51.0-2.fc44
+  status: newest
+  summary: Kubernetes CLI To Manage Your Clusters In Style
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
+  categories:
+    - Unspecified
+- repo: fedora_44
   subrepo: release
   srcname: k9s
   binnames:
@@ -653,20 +694,16 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: updates
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
   srcname: k9s
-  binnames:
-    - k9s
-    - k9s-debuginfo
-    - k9s-debugsource
   visiblename: k9s
-  version: 0.51.0
-  origversion: 0.51.0-2.fc44
-  status: newest
-  summary: Kubernetes CLI To Manage Your Clusters In Style
+  version: 0.21.7
+  origversion: 0.21.7-bp155.2.18
+  status: outdated
+  summary: Curses based terminal UI for Kubernetes clusters
   licenses:
-    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
+    - Apache-2.0
   categories:
     - Unspecified
 - repo: fedora_rawhide
@@ -690,13 +727,27 @@
   binname: k9s
   visiblename: sysutils/k9s
   version: 0.51.0
-  origversion: 0.51.0_6
+  origversion: 0.51.0_7
   status: newest
   summary: Kubernetes command-line tool
   maintainers:
     - gogolok@gmail.com
   categories:
     - sysutils
+- repo: nix_stable_24_05
+  srcname: k9s
+  visiblename: k9s
+  version: 0.32.5
+  origversion: null
+  status: outdated
+  summary: Kubernetes CLI To Manage Your Clusters In Style
+  maintainers:
+    - gonzih@gmail.com
+    - markus1189@gmail.com
+    - bryanasdev000@gmail.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - Apache-2.0
 - repo: gentoo
   srcname: sys-cluster/k9scli
   visiblename: sys-cluster/k9scli
@@ -845,15 +896,6 @@
     - Unlicense
   categories:
     - sys-cluster
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.15
-  origversion: 0.50.15-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: macports
   srcname: sysutils/k9s
   binname: k9s
@@ -879,42 +921,6 @@
   origversion: 0.51.0-1
   status: newest
   summary: TUI for managing Kubernetes clusters and pods
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: k9s
-  binname: k9s
-  visiblename: k9s
-  version: 0.51.0
-  origversion: 0.51.0-1
-  status: newest
-  summary: TUI for managing Kubernetes clusters and pods
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: k9s
-  binname: k9s
-  visiblename: k9s
-  version: 0.51.0
-  origversion: 0.51.0-1
-  status: newest
-  summary: TUI for managing Kubernetes clusters and pods
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_24_05
-  srcname: k9s
-  visiblename: k9s
-  version: 0.32.5
-  origversion: null
-  status: outdated
-  summary: Kubernetes CLI To Manage Your Clusters In Style
-  maintainers:
-    - gonzih@gmail.com
-    - markus1189@gmail.com
-    - bryanasdev000@gmail.com
-    - github@une-pause-cafe.fr
   licenses:
     - Apache-2.0
 - repo: nix_stable_24_11
@@ -991,30 +997,6 @@
     - xiaoyin_c@qq.com
   licenses:
     - Apache-2.0
-- repo: openbsd
-  srcname: sysutils/k9s
-  binname: k9s
-  visiblename: sysutils/k9s
-  version: 0.51.0
-  origversion: null
-  status: newest
-  summary: tui to manage kubernetes cluster
-  maintainers:
-    - rsadowski@openbsd.org
-  categories:
-    - sysutils
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: k9s
-  visiblename: k9s
-  version: 0.21.7
-  origversion: 0.21.7-bp155.2.18
-  status: outdated
-  summary: Curses based terminal UI for Kubernetes clusters
-  licenses:
-    - Apache-2.0
-  categories:
-    - Unspecified
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: k9s
@@ -1166,6 +1148,24 @@
   visiblename: k9s
   version: 0.50.18
   origversion: 0.50.18-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.16
+  origversion: 0.50.16-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.15
+  origversion: 0.50.15-1~ops2deb
   status: legacy
   maintainers:
     - ops2deb@upciti.com
