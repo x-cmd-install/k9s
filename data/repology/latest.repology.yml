@@ -1,141 +1,456 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: k9s
+- repo: wakemeops
+  subrepo: devops
   binname: k9s
   visiblename: k9s
   version: 0.51.0
-  origversion: 0.51.0-1
+  origversion: 0.51.0-1~ops2deb
   status: newest
-  summary: TUI for managing Kubernetes clusters and pods
-  licenses:
-    - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: k9s
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
   binname: k9s
   visiblename: k9s
-  version: 0.51.0
-  origversion: 0.51.0-1
-  status: newest
-  summary: TUI for managing Kubernetes clusters and pods
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: k9s
-  binname: k9s-fish-completion
-  visiblename: k9s-fish-completion
-  version: 0.26.7
-  origversion: 0.26.7-r5
-  status: outdated
-  summary: Fish completions for k9s
+  version: 0.50.18
+  origversion: 0.50.18-1~ops2deb
+  status: legacy
   maintainers:
-    - galen@galenabell.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: k9s
-  binname: k9s-bash-completion
-  visiblename: k9s-bash-completion
-  version: 0.26.7
-  origversion: 0.26.7-r5
-  status: outdated
-  summary: Bash completions for k9s
-  maintainers:
-    - galen@galenabell.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: k9s
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
   binname: k9s
   visiblename: k9s
-  version: 0.26.7
-  origversion: 0.26.7-r5
-  status: outdated
-  summary: Kubernetes TUI
+  version: 0.50.16
+  origversion: 0.50.16-1~ops2deb
+  status: legacy
   maintainers:
-    - galen@galenabell.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_17
-  subrepo: community
-  srcname: k9s
-  binname: k9s-zsh-completion
-  visiblename: k9s-zsh-completion
-  version: 0.26.7
-  origversion: 0.26.7-r5
-  status: outdated
-  summary: Zsh completions for k9s
-  maintainers:
-    - galen@galenabell.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: k9s
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
   binname: k9s
   visiblename: k9s
-  version: 0.27.4
-  origversion: 0.27.4-r4
-  status: outdated
-  summary: Kubernetes TUI
+  version: 0.50.15
+  origversion: 0.50.15-1~ops2deb
+  status: legacy
   maintainers:
-    - galen@galenabell.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: k9s
-  binname: k9s-bash-completion
-  visiblename: k9s-bash-completion
-  version: 0.27.4
-  origversion: 0.27.4-r4
-  status: outdated
-  summary: Bash completions for k9s
-  maintainers:
-    - galen@galenabell.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: k9s
-  binname: k9s-fish-completion
-  visiblename: k9s-fish-completion
-  version: 0.27.4
-  origversion: 0.27.4-r4
-  status: outdated
-  summary: Fish completions for k9s
-  maintainers:
-    - galen@galenabell.com
-  licenses:
-    - Apache-2.0
-- repo: alpine_3_18
-  subrepo: community
-  srcname: k9s
-  binname: k9s-zsh-completion
-  visiblename: k9s-zsh-completion
-  version: 0.27.4
-  origversion: 0.27.4-r4
-  status: outdated
-  summary: Zsh completions for k9s
-  maintainers:
-    - galen@galenabell.com
-  licenses:
-    - Apache-2.0
-- repo: openbsd
-  srcname: sysutils/k9s
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
   binname: k9s
-  visiblename: sysutils/k9s
+  visiblename: k9s
+  version: 0.50.14
+  origversion: 0.50.14-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.13
+  origversion: 0.50.13-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.12
+  origversion: 0.50.12-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.11
+  origversion: 0.50.11-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.10
+  origversion: 0.50.10-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.9
+  origversion: 0.50.9-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.7
+  origversion: 0.50.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.6
+  origversion: 0.50.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.5
+  origversion: 0.50.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.4
+  origversion: 0.50.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.50.3
+  origversion: 0.50.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.40.10
+  origversion: 0.40.10-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.40.8
+  origversion: 0.40.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.40.5
+  origversion: 0.40.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.32.7
+  origversion: 0.32.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.32.6
+  origversion: 0.32.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.32.5
+  origversion: 0.32.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.32.4
+  origversion: 0.32.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.32.3
+  origversion: 0.32.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.32.2
+  origversion: 0.32.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.32.1
+  origversion: 0.32.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.32.0
+  origversion: 0.32.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.9
+  origversion: 0.31.9-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.8
+  origversion: 0.31.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.7
+  origversion: 0.31.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.6
+  origversion: 0.31.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.5
+  origversion: 0.31.5-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.4
+  origversion: 0.31.4-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.3
+  origversion: 0.31.3-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.2
+  origversion: 0.31.2-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.1
+  origversion: 0.31.1-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.31.0
+  origversion: 0.31.0-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.30.8
+  origversion: 0.30.8-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: wakemeops
+  subrepo: devops
+  binname: k9s
+  visiblename: k9s
+  version: 0.30.7
+  origversion: 0.30.7-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
+- repo: chocolatey
+  binname: k9s
+  visiblename: 'k9s: Kubernetes CLI To Manage Your Clusters In Style!'
   version: 0.51.0
   origversion: null
   status: newest
-  summary: tui to manage kubernetes cluster
+  summary: K9s is a terminal based UI to interact with your Kubernetes clusters.
+- repo: alpine_3_17
+  subrepo: community
+  srcname: k9s
+  binname: k9s-fish-completion
+  visiblename: k9s-fish-completion
+  version: 0.26.7
+  origversion: 0.26.7-r5
+  status: outdated
+  summary: Fish completions for k9s
   maintainers:
-    - rsadowski@openbsd.org
-  categories:
-    - sysutils
+    - galen@galenabell.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: k9s
+  binname: k9s-bash-completion
+  visiblename: k9s-bash-completion
+  version: 0.26.7
+  origversion: 0.26.7-r5
+  status: outdated
+  summary: Bash completions for k9s
+  maintainers:
+    - galen@galenabell.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: k9s
+  binname: k9s
+  visiblename: k9s
+  version: 0.26.7
+  origversion: 0.26.7-r5
+  status: outdated
+  summary: Kubernetes TUI
+  maintainers:
+    - galen@galenabell.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_17
+  subrepo: community
+  srcname: k9s
+  binname: k9s-zsh-completion
+  visiblename: k9s-zsh-completion
+  version: 0.26.7
+  origversion: 0.26.7-r5
+  status: outdated
+  summary: Zsh completions for k9s
+  maintainers:
+    - galen@galenabell.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: k9s
+  binname: k9s
+  visiblename: k9s
+  version: 0.27.4
+  origversion: 0.27.4-r4
+  status: outdated
+  summary: Kubernetes TUI
+  maintainers:
+    - galen@galenabell.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: k9s
+  binname: k9s-bash-completion
+  visiblename: k9s-bash-completion
+  version: 0.27.4
+  origversion: 0.27.4-r4
+  status: outdated
+  summary: Bash completions for k9s
+  maintainers:
+    - galen@galenabell.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: k9s
+  binname: k9s-fish-completion
+  visiblename: k9s-fish-completion
+  version: 0.27.4
+  origversion: 0.27.4-r4
+  status: outdated
+  summary: Fish completions for k9s
+  maintainers:
+    - galen@galenabell.com
+  licenses:
+    - Apache-2.0
+- repo: alpine_3_18
+  subrepo: community
+  srcname: k9s
+  binname: k9s-zsh-completion
+  visiblename: k9s-zsh-completion
+  version: 0.27.4
+  origversion: 0.27.4-r4
+  status: outdated
+  summary: Zsh completions for k9s
+  maintainers:
+    - galen@galenabell.com
+  licenses:
+    - Apache-2.0
 - repo: alpine_3_19
   subrepo: community
   srcname: k9s
@@ -607,13 +922,15 @@
   summary: Terminal UI to interact with Kubernetes clusters (zsh completions)
   licenses:
     - Apache-2.0
-- repo: chocolatey
+- repo: wakemeops
+  subrepo: devops
   binname: k9s
-  visiblename: 'k9s: Kubernetes CLI To Manage Your Clusters In Style!'
-  version: 0.51.0
-  origversion: null
-  status: newest
-  summary: K9s is a terminal based UI to interact with your Kubernetes clusters.
+  visiblename: k9s
+  version: 0.30.6
+  origversion: 0.30.6-1~ops2deb
+  status: legacy
+  maintainers:
+    - ops2deb@upciti.com
 - repo: fedora_42
   subrepo: updates
   srcname: k9s
@@ -625,6 +942,22 @@
   version: 0.50.18
   origversion: 0.50.18-1.fc42
   status: outdated
+  summary: Kubernetes CLI To Manage Your Clusters In Style
+  licenses:
+    - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: updates
+  srcname: k9s
+  binnames:
+    - k9s
+    - k9s-debuginfo
+    - k9s-debugsource
+  visiblename: k9s
+  version: 0.51.0
+  origversion: 0.51.0-2.fc43
+  status: newest
   summary: Kubernetes CLI To Manage Your Clusters In Style
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
@@ -646,17 +979,17 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND CC0-1.0 AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
   categories:
     - Unspecified
-- repo: fedora_43
-  subrepo: updates
+- repo: fedora_44
+  subrepo: release
   srcname: k9s
   binnames:
     - k9s
     - k9s-debuginfo
     - k9s-debugsource
   visiblename: k9s
-  version: 0.51.0
-  origversion: 0.51.0-2.fc43
-  status: newest
+  version: 0.50.18
+  origversion: 0.50.18-2.fc44
+  status: legacy
   summary: Kubernetes CLI To Manage Your Clusters In Style
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
@@ -678,7 +1011,7 @@
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
   categories:
     - Unspecified
-- repo: fedora_44
+- repo: fedora_45
   subrepo: release
   srcname: k9s
   binnames:
@@ -686,24 +1019,12 @@
     - k9s-debuginfo
     - k9s-debugsource
   visiblename: k9s
-  version: 0.50.18
-  origversion: 0.50.18-2.fc44
-  status: legacy
+  version: 0.51.0
+  origversion: 0.51.0-3.fc45
+  status: newest
   summary: Kubernetes CLI To Manage Your Clusters In Style
   licenses:
     - 0BSD AND Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND ISC AND LicenseRef-Fedora-Public-Domain AND MIT AND MPL-2.0 AND Unlicense AND (Apache-2.0 OR GPL-2.0-or-later)
-  categories:
-    - Unspecified
-- repo: opensuse_leap_15_5
-  subrepo: main/oss
-  srcname: k9s
-  visiblename: k9s
-  version: 0.21.7
-  origversion: 0.21.7-bp155.2.18
-  status: outdated
-  summary: Curses based terminal UI for Kubernetes clusters
-  licenses:
-    - Apache-2.0
   categories:
     - Unspecified
 - repo: fedora_rawhide
@@ -734,20 +1055,6 @@
     - gogolok@gmail.com
   categories:
     - sysutils
-- repo: nix_stable_24_05
-  srcname: k9s
-  visiblename: k9s
-  version: 0.32.5
-  origversion: null
-  status: outdated
-  summary: Kubernetes CLI To Manage Your Clusters In Style
-  maintainers:
-    - gonzih@gmail.com
-    - markus1189@gmail.com
-    - bryanasdev000@gmail.com
-    - github@une-pause-cafe.fr
-  licenses:
-    - Apache-2.0
 - repo: gentoo
   srcname: sys-cluster/k9scli
   visiblename: sys-cluster/k9scli
@@ -770,6 +1077,20 @@
     - Unlicense
   categories:
     - sys-cluster
+- repo: nix_stable_24_05
+  srcname: k9s
+  visiblename: k9s
+  version: 0.32.5
+  origversion: null
+  status: outdated
+  summary: Kubernetes CLI To Manage Your Clusters In Style
+  maintainers:
+    - gonzih@gmail.com
+    - markus1189@gmail.com
+    - bryanasdev000@gmail.com
+    - github@une-pause-cafe.fr
+  licenses:
+    - Apache-2.0
 - repo: gentoo
   srcname: sys-cluster/k9scli
   visiblename: sys-cluster/k9scli
@@ -923,6 +1244,38 @@
   summary: TUI for managing Kubernetes clusters and pods
   licenses:
     - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: k9s
+  binname: k9s
+  visiblename: k9s
+  version: 0.51.0
+  origversion: 0.51.0-1
+  status: newest
+  summary: TUI for managing Kubernetes clusters and pods
+  licenses:
+    - Apache-2.0
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: k9s
+  binname: k9s
+  visiblename: k9s
+  version: 0.51.0
+  origversion: 0.51.0-1
+  status: newest
+  summary: TUI for managing Kubernetes clusters and pods
+  licenses:
+    - Apache-2.0
+- repo: slackbuilds
+  srcname: network/k9s
+  visiblename: network/k9s
+  version: 0.51.0
+  origversion: null
+  status: newest
+  maintainers:
+    - ricardsonwilliams+slackbuild@gmail.com
+  categories:
+    - network
 - repo: nix_stable_24_11
   srcname: k9s
   visiblename: k9s
@@ -997,6 +1350,30 @@
     - xiaoyin_c@qq.com
   licenses:
     - Apache-2.0
+- repo: openbsd
+  srcname: sysutils/k9s
+  binname: k9s
+  visiblename: sysutils/k9s
+  version: 0.51.0
+  origversion: null
+  status: newest
+  summary: tui to manage kubernetes cluster
+  maintainers:
+    - rsadowski@openbsd.org
+  categories:
+    - sysutils
+- repo: opensuse_leap_15_5
+  subrepo: main/oss
+  srcname: k9s
+  visiblename: k9s
+  version: 0.21.7
+  origversion: 0.21.7-bp155.2.18
+  status: outdated
+  summary: Curses based terminal UI for Kubernetes clusters
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: k9s
@@ -1087,16 +1464,6 @@
   status: newest
   licenses:
     - Apache-2.0
-- repo: slackbuilds
-  srcname: network/k9s
-  visiblename: network/k9s
-  version: 0.51.0
-  origversion: null
-  status: newest
-  maintainers:
-    - ricardsonwilliams+slackbuild@gmail.com
-  categories:
-    - network
 - repo: t2
   srcname: k9s
   visiblename: k9s
@@ -1133,357 +1500,6 @@
     - tim.sandquist@gmail.com
   licenses:
     - Apache-2.0
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.51.0
-  origversion: 0.51.0-1~ops2deb
-  status: newest
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.18
-  origversion: 0.50.18-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.16
-  origversion: 0.50.16-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.15
-  origversion: 0.50.15-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.14
-  origversion: 0.50.14-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.13
-  origversion: 0.50.13-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.12
-  origversion: 0.50.12-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.11
-  origversion: 0.50.11-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.10
-  origversion: 0.50.10-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.9
-  origversion: 0.50.9-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.7
-  origversion: 0.50.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.6
-  origversion: 0.50.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.5
-  origversion: 0.50.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.4
-  origversion: 0.50.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.50.3
-  origversion: 0.50.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.40.10
-  origversion: 0.40.10-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.40.8
-  origversion: 0.40.8-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.40.5
-  origversion: 0.40.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.32.7
-  origversion: 0.32.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.32.6
-  origversion: 0.32.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.32.5
-  origversion: 0.32.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.32.4
-  origversion: 0.32.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.32.3
-  origversion: 0.32.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.32.2
-  origversion: 0.32.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.32.1
-  origversion: 0.32.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.32.0
-  origversion: 0.32.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.9
-  origversion: 0.31.9-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.8
-  origversion: 0.31.8-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.7
-  origversion: 0.31.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.6
-  origversion: 0.31.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.5
-  origversion: 0.31.5-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.4
-  origversion: 0.31.4-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.3
-  origversion: 0.31.3-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.2
-  origversion: 0.31.2-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.1
-  origversion: 0.31.1-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.31.0
-  origversion: 0.31.0-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.30.8
-  origversion: 0.30.8-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.30.7
-  origversion: 0.30.7-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
-- repo: wakemeops
-  subrepo: devops
-  binname: k9s
-  visiblename: k9s
-  version: 0.30.6
-  origversion: 0.30.6-1~ops2deb
-  status: legacy
-  maintainers:
-    - ops2deb@upciti.com
 - repo: wakemeops
   subrepo: devops
   binname: k9s
