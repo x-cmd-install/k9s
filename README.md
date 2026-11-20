@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.51.0` (2026-06-06)
-- **Last commit**: 2026-11-18
+- **Last commit**: 2026-11-19
 - **Assets in release**: 38
 
 ## Popularity
 
-- **Stars**: 34,994 · **Forks**: 2,353 · **Open issues**: 2,419 · **Contributors**: 415
+- **Stars**: 35,002 · **Forks**: 2,356 · **Open issues**: 2,421 · **Contributors**: 416
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1166 · **Open PRs**: 63 · **Closed issues**: 2379 · **Open issues**: 40 · **Commits**: 2274
+- **Releases**: 258 · **Merged PRs**: 1167 · **Open PRs**: 64 · **Closed issues**: 2379 · **Open issues**: 42 · **Commits**: 2275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 30 | 22 | 4 | 13 | 33 |
-| last60d | 2026-09-20 | 0 | 59 | 43 | 8 | 27 | 63 |
-| 90d | 2026-08-21 | 0 | 84 | 49 | 12 | 32 | 94 |
-| last180d | 2026-05-23 | 1 | 148 | 60 | 64 | 37 | 165 |
-| 360d | 2025-11-24 | 3 | 261 | 63 | 168 | 39 | 269 |
-| last720d | 2024-11-29 | 31 | 477 | 63 | 504 | 39 | 515 |
+| 30d | 2026-10-21 | 0 | 30 | 20 | 4 | 15 | 34 |
+| last60d | 2026-09-21 | 0 | 57 | 44 | 8 | 27 | 64 |
+| 90d | 2026-08-22 | 0 | 85 | 50 | 12 | 34 | 95 |
+| last180d | 2026-05-24 | 1 | 148 | 61 | 63 | 39 | 166 |
+| 360d | 2025-11-25 | 3 | 260 | 64 | 168 | 41 | 270 |
+| last720d | 2024-11-30 | 31 | 478 | 64 | 504 | 41 | 515 |
 
 ## Release assets
 
@@ -131,4 +131,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T08:06:13Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T08:44:30Z._
