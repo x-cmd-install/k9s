@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 35,073 · **Forks**: 2,369 · **Open issues**: 2,425 · **Contributors**: 416
+- **Stars**: 35,086 · **Forks**: 2,371 · **Open issues**: 2,427 · **Contributors**: 416
 
 ## Totals (cumulative)
 
-- **Releases**: 258 · **Merged PRs**: 1170 · **Open PRs**: 71 · **Closed issues**: 2381 · **Open issues**: 44 · **Commits**: 2278
+- **Releases**: 258 · **Merged PRs**: 1170 · **Open PRs**: 73 · **Closed issues**: 2381 · **Open issues**: 46 · **Commits**: 2278
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 28 | 23 | 5 | 15 | 29 |
-| last60d | 2026-09-27 | 0 | 55 | 44 | 9 | 26 | 57 |
-| 90d | 2026-08-28 | 0 | 84 | 57 | 12 | 36 | 92 |
-| last180d | 2026-05-30 | 1 | 146 | 67 | 61 | 40 | 159 |
-| 360d | 2025-12-01 | 3 | 262 | 71 | 168 | 43 | 271 |
-| last720d | 2024-12-06 | 31 | 477 | 71 | 495 | 43 | 518 |
+| 30d | 2026-10-28 | 0 | 28 | 25 | 5 | 17 | 29 |
+| last60d | 2026-09-28 | 0 | 51 | 46 | 9 | 28 | 57 |
+| 90d | 2026-08-29 | 0 | 84 | 59 | 12 | 38 | 92 |
+| last180d | 2026-05-31 | 1 | 146 | 69 | 61 | 42 | 159 |
+| 360d | 2025-12-02 | 3 | 259 | 73 | 168 | 45 | 271 |
+| last720d | 2024-12-07 | 31 | 476 | 73 | 495 | 45 | 518 |
 
 ## Release assets
 
@@ -108,6 +108,20 @@ Lowest-scoring checks:
 | [k9s_Windows_arm64.zip](https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Windows_arm64.zip) | 35.8 MiB | `native/win/arm64` |
 | [k9s_Windows_arm64.zip.sbom.json](https://github.com/derailed/k9s/releases/download/v0.51.0/k9s_Windows_arm64.zip.sbom.json) | 576.4 KiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **145** distros on [repology.org](https://repology.org/project/k9s). **33** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.51.0` | ✅ latest |
+| Homebrew | `0.51.0` | ✅ latest |
+| Fedora rawhide | `0.51.0` | ✅ latest |
+| Nix unstable | `0.51.0` | ✅ latest |
+| Void | `0.51.0` | ✅ latest |
+| Alpine edge | `0.51.0` | ✅ latest |
+| openSUSE Tumbleweed | `0.51.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `k9s` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -117,4 +131,4 @@ Install metadata for k9s lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:02:49Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:37:30Z._
